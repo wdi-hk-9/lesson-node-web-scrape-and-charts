@@ -1,0 +1,19 @@
+{
+  "name": "lesson-node-web-scrape-and-charts",
+  "version": "0.0.1",
+  "description": "Scrape the web.",
+  "main": "app.js",
+  "author": "",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "cheerio": "latest",
+    "ejs": "^2.3.1",
+    "express": "^4.13.3",
+    "express-ejs-layouts": "^2.0.0",
+    "glob": "^6.0.1",
+    "method-override": "^2.3.0",
+    "mongoose": "^4.1.2",
+    "morgan": "^1.6.1",
+    "yakuza": "latest"
+  }
+}
